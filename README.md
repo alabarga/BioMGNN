@@ -8,4 +8,4 @@ We propose the construction of a multi-layer graph representation, which will be
 -  Enter the created folder: `cd BioMGNN`
 -  Install requirements: `pip install -r requirements.txt`
 -  Open Jupyter notebook `jupyter notebook` or VS code `code .`
--  Run [tutorial.ipynb]()
+-  Run [tutorial.ipynb](https://github.com/alabarga/BioMGNN/blob/main/tutorial.ipynb)
